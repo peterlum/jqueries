@@ -1,0 +1,29 @@
+nav{
+	background: blue;
+}
+
+#toggle{
+	display:inline-block;
+	border-radius: 5px;
+}
+
+section{
+	background: green;
+}
+
+article{
+	background: red;
+}
+
+aside{
+	background:purple;
+}
+
+footer{
+	background: gray;
+}
+
+figure{
+	background: orange;
+}
+
